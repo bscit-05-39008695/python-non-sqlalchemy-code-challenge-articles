@@ -1,4 +1,10 @@
-# Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
+#### Articles - without SQLAlchemy
+
+#### Date;2024/11/04
+
+### By ARON KIPYEGON MUTAI
+
+##### Instructions/description
 
 In this code challenge, you will be working with a Magazine domain.
 
@@ -175,3 +181,9 @@ stretch your skills.
     - lines 39-40, and 53-54
   - **magazine_test.py**
     - lines 35-36, 55-56, 59-60, 90-91, and 105-106
+    ### Technologies used
+    python sql
+
+    ##### Support and contact details
+
+    https://github.com/bscit-05-39008695
